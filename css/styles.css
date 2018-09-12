@@ -1,0 +1,12 @@
+body {
+  background: #141414;
+}
+
+h1 span {
+  color: #55b5d0;
+}
+
+.button {
+  background-color: #55b5d0;
+  border: 1px solid #55b5d0;
+}
